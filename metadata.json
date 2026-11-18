@@ -1,6 +1,6 @@
 {
   "name": "BrassLab Trumpet",
   "description": "Interactive trumpet simulator with 3-valve fingerings, harmonic air pressure partials, key transposition, mutes, and real-time brass acoustics.",
-  "requestFramePermissions": [],
+  "requestFramePermissions": ["microphone"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
